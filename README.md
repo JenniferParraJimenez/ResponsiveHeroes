@@ -1,5 +1,5 @@
 
-Comision 02 - Curso Frontend - Clase 08 
+Comision 02 - Curso Frontend - Clase 10 
 
 Front End I 
 Práctica integradora
